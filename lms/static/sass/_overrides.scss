@@ -23,11 +23,12 @@
 		position: relative;
 
 		> .heading-group h1 {
-			color: #fff;
+			color: rgb(0,0,0,0.5);
 			text-shadow: none;
 		}
 		> .heading-group p {
-			color: #fff;
+			color: rgb(0,0,0,0.5)
+			//color: #fff;
 		}
 	}
 }
